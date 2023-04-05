@@ -1,0 +1,29 @@
+html{
+  color: DarkGray
+}
+form label{
+  display:block;
+  font-size: 20px;
+  margin: 0 0 10px;
+}
+
+form input{
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 25px;
+}
+.pagina1{
+  display: block;
+  background: LawnGreen;
+  color: black;
+  margin: 0  0 20px;
+  padding: 20px 25px;
+}
+.pagina2{
+  background: CornflowerBlue;
+  color: black
+  padding: 20px 25px;
+}
+.pagina3{
+  padding: 10px 25px;
+}
